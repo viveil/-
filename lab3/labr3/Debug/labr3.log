@@ -1,0 +1,4 @@
+﻿  labr3.cpp
+C:\Users\30042238\source\repos\labr3\labr3\List.h(204,19): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\30042238\source\repos\labr3\labr3\List.h(227): warning C4715: List::find: значение возвращается не при всех путях выполнения
+  labr3.vcxproj -> C:\Users\30042238\source\repos\labr3\Debug\labr3.exe

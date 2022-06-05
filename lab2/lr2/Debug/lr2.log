@@ -1,0 +1,16 @@
+﻿  lr2.cpp
+C:\Users\30042238\source\repos\lr2\lr2\HuffmanAlgo.h(198,10): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\30042238\source\repos\lr2\lr2\HuffmanAlgo.h(252,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\30042238\source\repos\lr2\lr2\HuffmanAlgo.h(335,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\30042238\source\repos\lr2\lr2\HuffmanAlgo.h(395,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\30042238\source\repos\lr2\lr2\HuffmanAlgo.h(59,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\30042238\source\repos\lr2\lr2\HuffmanAlgo.h(58): message : во время компиляции функции-члена класс шаблон "ListHuffman<char,int>::Node *ListHuffman<char,int>::at(size_t)"
+C:\Users\30042238\source\repos\lr2\lr2\HuffmanAlgo.h(345): message : выполняется компиляция ссылки на экземпляр шаблон функции "ListHuffman<char,int>::Node *ListHuffman<char,int>::at(size_t)"
+C:\Users\30042238\source\repos\lr2\lr2\HuffmanAlgo.h(329): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ListHuffman<char,int>"
+C:\Users\30042238\source\repos\lr2\lr2\HuffmanAlgo.h(62,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\30042238\source\repos\lr2\lr2\RBTree.h(395): warning C4715: RBtree<char,int>::find: значение возвращается не при всех путях выполнения
+C:\Users\30042238\source\repos\lr2\lr2\RBTree.h(280): warning C4715: RBtree<char,int>::at: значение возвращается не при всех путях выполнения
+C:\Users\30042238\source\repos\lr2\lr2\RBTree.h(395): warning C4715: RBtree<char,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::find: значение возвращается не при всех путях выполнения
+C:\Users\30042238\source\repos\lr2\lr2\RBTree.h(228): warning C4715: RBtree<char,int>::getHelpKey: значение возвращается не при всех путях выполнения
+C:\Users\30042238\source\repos\lr2\lr2\RBTree.h(239): warning C4715: RBtree<char,int>::getHelpValue: значение возвращается не при всех путях выполнения
+  lr2.vcxproj -> C:\Users\30042238\source\repos\lr2\Debug\lr2.exe

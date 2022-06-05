@@ -1,0 +1,23 @@
+﻿  UnitTestForTree.cpp
+C:\Users\30042238\source\repos\ConsoleApplication8\ConsoleApplication8\List.h(77,41): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\30042238\source\repos\ConsoleApplication8\ConsoleApplication8\List.h(76): message : во время компиляции функции-члена класс шаблон "T List<T>::at(size_t)"
+          with
+          [
+              T=int
+          ]
+C:\Users\30042238\source\repos\ConsoleApplication8\UnitTestForTree\UnitTestForTree.cpp(80): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+          with
+          [
+              T=int
+          ]
+C:\Users\30042238\source\repos\ConsoleApplication8\UnitTestForTree\UnitTestForTree.cpp(80): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<keyTape>"
+          with
+          [
+              keyTape=int
+          ]
+C:\Users\30042238\source\repos\ConsoleApplication8\ConsoleApplication8\List.h(87,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\30042238\source\repos\ConsoleApplication8\ConsoleApplication8\RBTree.h(299,40): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\30042238\source\repos\ConsoleApplication8\ConsoleApplication8\RBTree.h(260): message : во время компиляции функции-члена класс шаблон "void Map<int,int>::delete_fix(Map<int,int>::Node *)"
+C:\Users\30042238\source\repos\ConsoleApplication8\ConsoleApplication8\RBTree.h(66): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Map<int,int>::delete_fix(Map<int,int>::Node *)"
+C:\Users\30042238\source\repos\ConsoleApplication8\UnitTestForTree\UnitTestForTree.cpp(15): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Map<int,int>"
+  UnitTestForTree.vcxproj -> C:\Users\30042238\source\repos\ConsoleApplication8\Debug\UnitTestForTree.dll

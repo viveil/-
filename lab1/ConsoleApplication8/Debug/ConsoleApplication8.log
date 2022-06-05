@@ -1,0 +1,12 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\30042238\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(10,20): warning C4305: аргумент: усечение из "double" в "valueTape"
+          with
+          [
+              valueTape=float
+          ]
+C:\Users\30042238\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(14,21): warning C4305: аргумент: усечение из "double" в "valueTape"
+          with
+          [
+              valueTape=float
+          ]
+  ConsoleApplication8.vcxproj -> C:\Users\30042238\source\repos\ConsoleApplication8\Debug\ConsoleApplication8.exe
